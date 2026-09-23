@@ -1,4 +1,3 @@
-import datetime
+import numpy as np
 
-# print(datetime.__doc__)
-help(datetime.datetime.now) 
+help(np)

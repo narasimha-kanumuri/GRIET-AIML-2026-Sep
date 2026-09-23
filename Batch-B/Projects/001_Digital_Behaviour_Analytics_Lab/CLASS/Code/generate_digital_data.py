@@ -34,7 +34,7 @@ NUM_DAYS = 30
 OUTPUT_FILE = "digital_behaviour.csv"
 
 # No fixed seed - every student gets different numbers.
-random.seed()
+random.seed(10)
 
 COLUMNS = [
     "Date",
